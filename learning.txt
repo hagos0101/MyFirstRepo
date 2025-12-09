@@ -1,1 +1,2 @@
+What I have learned from this course
 If you want, I can also help you set up SSH keys, log in with GitHub CLI, or connect your VM Git to GitHub.
